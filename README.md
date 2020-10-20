@@ -29,7 +29,6 @@ ZICA.js - is an Open source Javascript framework for creating 2D games and apps.
 var canvas = document.getElementById("myCanvas");
 const Game = new ZICA.GameRunner(canvas);
 
-var p2 = null;
 var scene = new ZICA.Scene();
 
 var box  = new ZICA.Entity();
