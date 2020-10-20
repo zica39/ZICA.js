@@ -17,7 +17,7 @@ ZICA.js - is an Open source Javascript framework for creating 2D games and apps.
 
 ## Minimal Example
 
-```
+```html
 <html>
 <head>
 <title>ZICA ENGINE</title>
@@ -50,7 +50,7 @@ Game.startApp();
 </body>
 </html>
 ```
-![first](/docs/img/test.png)
+Tests are found on the [Github Page](/examples/tests.html)
 
 ## Documentation
   * [Getting started](../../wiki/getting-started)
@@ -66,9 +66,7 @@ Game.startApp();
 ## API Reference
 See the [API Reference for ZICA.js](docs/api/zicajs.md) for details.
 
-### Tests
-Tests are found on the [Github Page](/examples/tests.html)
-
+### Demos
 
 # License
 ZICA.js is licensed under the terms of the MIT License.
