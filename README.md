@@ -34,8 +34,9 @@ var scene = new ZICA.Scene();
 
 var box  = new ZICA.Entity();
 box.text = 'Box';
-box.textColor = 'rgba(0,255,0,1)';
-box.color = 'rgba(255,0,0,1)';
+box.textColor = 'yellow';
+box.color = 'white';
+box.drawBorder = true;
 box.addAnimator(new ZICA.AnimatorTopDownMovement({Speed:0.2}));
 box.addAnimator(new ZICA.AnimatorRotation({Speed:0.2}));
 
