@@ -53,19 +53,16 @@ Tests are found on the [Github Page](/tests/index.html)
 
 ## Documentation
   * [Getting started](../../wiki/Home)
-  * [Entity](../../wiki/Entity)
-  * [Scene](../../wiki/Scene)
-  * [GameRunner](../../wiki/GameRunner)
-  * [Animator](../../wiki/Animator)
-  * [Action](../../wiki/Action)
-  * [Vect2d](../../wiki/Vect2d)
-  * [Camera](../../wiki/Camera)
-  * [Box2d](../../wiki/Box2d)
+  * [Entity](../../wiki/Home#Entity)
+  * [Scene](../../wiki/Home#Scene)
+  * [GameRunner](../../wiki/Home#GameRunner)
+  * [Animator](../../wiki/Home#Animator)
+  * [Action](../../wiki/Home#Action)
+  * [Vect2d](../../wiki/Home#Vect2d)
+  * [Camera](../../wiki/Home#Camera)
+  * [Box2d](../../wiki/Home#Box2d)
 
-## API Reference
-See the [API Reference for ZICA.js](docs/api/zicajs.md) for details.
-
-### Demos
+## Demos
 
 # License
 ZICA.js is licensed under the terms of the MIT License.
