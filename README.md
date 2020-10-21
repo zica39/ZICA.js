@@ -62,7 +62,10 @@ Tests are found on the [Github Page](https://zica39.github.io/zicaengine/docs/ex
   * [Camera](../../wiki/Home#Camera)
   * [Box2d](../../wiki/Home#Box2d)
 
+
 ## Demos
+  * [Kill Coronavirus](https://zica39.github.io/zicaengine/docs/examples/game/)
+
 
 # License
 ZICA.js is licensed under the terms of the MIT License.
