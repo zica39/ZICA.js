@@ -49,7 +49,7 @@ Game.startApp();
 </body>
 </html>
 ```
-Tests are found on the [Github Page](/tests/index.html)
+Tests are found on the [Github Page](https://zica39.github.io/zicaengine/docs/examples/test/)
 
 ## Documentation
   * [Getting started](../../wiki/Home)
