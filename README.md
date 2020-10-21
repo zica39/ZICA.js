@@ -58,7 +58,7 @@ Tests are found on the [Github Page](https://zica39.github.io/zicaengine/docs/ex
   * [GameRunner](../../wiki/Home#GameRunner)
   * [Animator](../../wiki/Home#Animator)
   * [Action](../../wiki/Home#Action)
-  * [Vect2d](../../wiki/Home#Vect2d)
+  * [Vect2d](../../wiki/Home#Vector2d)
   * [Camera](../../wiki/Home#Camera)
   * [Box2d](../../wiki/Home#Box2d)
 
