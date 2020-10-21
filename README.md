@@ -49,10 +49,10 @@ Game.startApp();
 </body>
 </html>
 ```
-Tests are found on the [Github Page](/examples/tests.html)
+Tests are found on the [Github Page](/tests/index.html)
 
 ## Documentation
-  * [Getting started](../../wiki/getting-started)
+  * [Getting started](../../wiki/Home)
   * [Entity](../../wiki/Entity)
   * [Scene](../../wiki/Scene)
   * [GameRunner](../../wiki/GameRunner)
